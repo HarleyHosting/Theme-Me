@@ -5,17 +5,15 @@ from lib import merah, putih, abu, pxm, pxh, netral, kuning
 
 
 theme-me = (f"""
-{merah}████████╗██╗  ██╗███████╗{putih}███╗   ███╗███████╗
-{merah}╚══██╔══╝██║  ██║██╔════╝{putih}████╗ ████║██╔════╝
-{merah}   ██║   ███████║█████╗  {putih}██╔████╔██║█████╗  
-{merah}   ██║   ██╔══██║██╔══╝  {putih}██║╚██╔╝██║██╔══╝  
-{merah}   ██║   ██║  ██║███████╗{putih}██║ ╚═╝ ██║███████╗
-{merah}   ╚═╝   ╚═╝  ╚═╝╚══════╝{putih}╚═╝     ╚═╝╚══════╝
-{abu}               .: B E T A :.
+{merah}█░█ ▄▀▄ █▀▀▄ █░░ █▀ █░█
+{putih}█▀█ █▀█ █▐█▀ █░░ █▀ ▀▄▀
+{merah}▀░▀ ▀░▀ ▀░▀▀ ▀▀▀ ▀▀ ░▀░
+{putih}•┈┈┈┈┈┈┈••✦ ♡ ✦••┈┈┈┈┈┈┈•
+{abu}       .: HARLEY HOSTING:.
 
-{kuning} • {putih}Author  : {pxm} ZidanIDz {netral}
-{kuning} • {putih}YouTube : ZeyShyy.
-{kuning} • {putih}Github  : https://github.com/Zidan-ID17 
+{kuning} • {putih}Author  : {pxm} HARLEY HOSTING{netral}
+{kuning} • {putih}YouTube : @HarleyHosting
+{kuning} • {putih}Whatsapp  : https://wa.me/6281360638012
 {abu}———————————————————————————————————————————""")
 
 m_pg = (f"""{putih}              <[{pxm} THEME-ME {netral}{putih}]>
